@@ -1,0 +1,51 @@
+{
+    "userId": 5,
+    "username": "jenny",
+    "password": "jenny123",
+    "role": "user",
+    "userProfile": {
+        "profileId": 6,
+        "fullName": "jenny james",
+        "city": "New York",
+        "locations": "Amrica",
+        "email": "jenny@gmail.com",
+        "phoneNumber": 8654144815,
+    "allReviews": 
+        {
+            "reviewId": 7,
+            "description": "pls buy insurance",
+            "date": "2022-11-04",
+            "username": "jenny",
+            "productName": "chair",
+            "title":"bad",
+            "rating": 0,
+     "allProducts":
+     {
+            " productId":8,
+            "productName":"mobbile",
+	        "cost":5000,
+	         "brandName": "vivo",
+	         "category":"ABC",
+	          "DateOfLaunch":"20-11-2022",
+	 "allOrders":
+	 {
+	        "orderId": 9,
+	        "totalOrderCost": 5000,
+	         "orderDate": "11-11-2011",
+	          "status": "order pending",
+	          "userName": "jen",
+	          "allProducts": 5,
+	 "allDeliveryAgents":
+	 {
+	         "deliveryAgentId": 10,
+	          "deliveryStatus": "delivered",
+	          "payment": "by cash",
+	          "username":"moni"
+	          
+	         
+	 }         
+	 }         
+        }
+        
+        }
+        }}

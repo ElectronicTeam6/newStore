@@ -1,0 +1,16 @@
+{
+    "userId": 1,
+    "username": "mike",
+    "password": "mike123",
+    "role": "user",
+    "userProfile": 
+    {
+        "profileId": 2,
+        "fullName": "sachi srivastava",
+        "username":"moni",
+        "city": "siwan",
+        "locations": "siwan",
+        "email": "mo@gmail.com",
+        "phoneNumber": 9654144818
+}
+}
